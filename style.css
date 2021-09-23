@@ -72,19 +72,19 @@ a {
     border-radius: 5px;
 }
 
-a:first-of-type {   /* první (odkaz) tohoto typu */
+a:first-of-type {  
     margin-bottom: 5px;
     background: #1da1f2;
 }
 
-a:first-of-type:hover {   /* první (odkaz) tohoto typu */
+a:first-of-type:hover {   
     background: #0b7bc1;
 }
 
-a:last-of-type {   /* poslední (odkaz) tohoto typu */
+a:last-of-type {   
     background: #3b5998;
 }
 
-a:last-of-type:hover {   /* poslední (odkaz) tohoto typu */
+a:last-of-type:hover {   
     background: #2b406e;
 }
